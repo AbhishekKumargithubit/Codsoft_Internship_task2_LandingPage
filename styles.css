@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #202020;
+    color: #ffffff;
+    padding: 10px 0;
+}
+
+header .logo {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header nav {
+    float: right;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#banner {
+    background-image: url(https://t4.ftcdn.net/jpg/05/17/95/73/240_F_517957327_3LkDZbaJ22kKGCxpudH9n512gbrYERqv.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#banner .banner-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#banner button {
+    background-color: #dc3545;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#games {
+    padding: 50px 0;
+}
+
+#games h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.game-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.game-card {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    width: 30%;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.game-card img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #202020;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer .social-media {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer .social-media li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer .social-media li a img {
+    width: 24px;
+    height: 24px;
+}
