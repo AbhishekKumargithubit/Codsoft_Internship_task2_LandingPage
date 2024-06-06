@@ -1,4 +1,5 @@
 # Codsoft_Internship_task2_LandingPage
+# THE BET MASTER
 ## Introduction
 
 This landing page is designed to capture visitors' interest and provide information about our gambling site. It includes sections for promotions, games, testimonials, and contact information. The goal is to provide a seamless and engaging user experience.
