@@ -30,4 +30,4 @@ You will need a web browser to view the site. Optionally, a code editor to view/
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/https://AbhishekKumar/gambling-site-landing-page.git
+   git clone https://github.com/https://AbhishekKumargithubit/gambling-site-landing-page.git
