@@ -27,8 +27,4 @@ To get a local copy up and running follow these simple steps.
 
 You will need a web browser to view the site. Optionally, a code editor to view/edit the code.
 
-### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/https://AbhishekKumargithubit/gambling-site-landing-page.git
